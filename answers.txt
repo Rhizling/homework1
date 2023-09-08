@@ -1,2 +1,0 @@
-What is a remote repository?
-A remote repository is where a project's code is stored outside of a local environment and can be used to backup code and establish a location to pull the current version of a project to multiple local environments.
