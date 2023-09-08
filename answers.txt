@@ -1,1 +1,3 @@
-
+What is the difference between a merge and a rebase?
+Merging preserves the history of the project as it merge's a branch's changes into that of the branch it is being merged into. In this case both histories are preserved as they simply get tied together.
+Rebase puts the branch at the tip of the other branch and rewrites the history to be linear which makes it seem as the commits off the branch occurred after that of the other branch.
